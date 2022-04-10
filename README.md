@@ -1,6 +1,8 @@
 # misskey-emoji-data
 misskeyで利用できる。<br />
 appleの絵文字置換つーる。<br />
+![image](https://user-images.githubusercontent.com/84845207/162617765-56a82a7d-7f1b-4ce3-b978-c58d2af1a1e9.png)
+https://misskey.nauzome.com/@nauzome
 ## 使い方
 ### create.sh 
 create.sh はネイティブの https://github.com/iamcal/emoji-data からデーターを変換するためのものです。<br />
