@@ -14,5 +14,5 @@ https://hoge.com/twemoji/ <br />
 にウェルカムページが表示されます。<br />
 ## 謝辞
 https://github.com/iamcal/emoji-data myライセンス<br />
+newcss https://newcss.net/<br />
 apple inc. 非営利のみ有効。
-newcss https://newcss.net/
