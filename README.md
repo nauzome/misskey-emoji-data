@@ -13,6 +13,6 @@ misskey.confは個人環境に合わせて変更してください。<br />
 https://hoge.com/twemoji/ <br />
 にウェルカムページが表示されます。<br />
 ## 謝辞
-https://github.com/iamcal/emoji-data myライセンス<br />
-newcss https://newcss.net/<br />
-apple inc. 非営利のみ有効。
+* emoji-data https://github.com/iamcal/emoji-data MTライセンス
+* newcss https://newcss.net/
+* apple inc. 非営利のみ有効。
